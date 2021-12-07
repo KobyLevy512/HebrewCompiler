@@ -23,6 +23,8 @@
 # מתחילים
 ![2 מתחילים (2 files merged)-1](https://user-images.githubusercontent.com/86796339/145075964-985e358b-f0b0-4cac-9ee7-fe4317f302aa.jpg)
 ![2 מתחילים (2 files merged)-2](https://user-images.githubusercontent.com/86796339/145075968-e5775758-c687-427b-b208-3bfaf26494cc.jpg)
+
+# תחביר
 ![2 מתחילים (2 files merged)-3](https://user-images.githubusercontent.com/86796339/145075971-5493324f-79c4-453c-aac5-04f496b2c444.jpg)
 ![2 מתחילים (2 files merged)-4](https://user-images.githubusercontent.com/86796339/145075976-78b33461-d6c1-4f05-b8b6-3c0dc4a9631b.jpg)
 
