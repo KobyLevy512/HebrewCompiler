@@ -28,4 +28,20 @@
 ![2 מתחילים (2 files merged)-3](https://user-images.githubusercontent.com/86796339/145075971-5493324f-79c4-453c-aac5-04f496b2c444.jpg)
 ![2 מתחילים (2 files merged)-4](https://user-images.githubusercontent.com/86796339/145075976-78b33461-d6c1-4f05-b8b6-3c0dc4a9631b.jpg)
 
-[2.מתחילים (2 files merged).pdf](https://github.com/KobyLevy512/HebrewCompiler/files/7670320/2.2.files.merged.pdf)
+# הערות
+הערה לא נכנסת למתרגם ומשמשת אותנו להערות
+הערה מתחילה בסימן< ונגמרת ב>
+דוגמא:
+
+<שלום אני הערה>
+
+<אני הערה
+
+בשתי שורות>
+
+<אני
+
+בשלוש
+
+שורות>
+
